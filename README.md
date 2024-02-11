@@ -17,4 +17,5 @@ The project employs the following key libraries for efficient handling of machin
 - Scikit-learn for machine learning functionalities.
 
 ## Evaluation
-The model's performance is evaluated using KNN with varying values of K (3, 5, 7, 9, 11). The evaluation metrics provide insights into the model's effectiveness in recognizing handwritten text characters.
+- The model's performance is evaluated using KNN with varying values of K (3, 5, 7, 9, 11).
+- The evaluation metrics provide insights into the model's effectiveness in recognizing handwritten text characters.
